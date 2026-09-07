@@ -22,5 +22,11 @@
     "file": "firmware/LiPo-Buffer-1.0.2-OTA.bin",
     "size": 658864,
     "sha256": "8e2dddf1d00e012f4633239ba98d977126999a852499087c0317853460c80b99"
+  },
+  "battery_wizard": {
+    "version": "2.14.63",
+    "file": "firmware/Battery-Wizard-2.14.63-OTA.bin",
+    "size": 29850,
+    "sha256": "c6a7d280798d298af3cc5f9fe325f34af0cd5d060b3fa744eb50fa3f67d3ca52"
   }
 }
