@@ -1,0 +1,20 @@
+{
+  "bridge_ble": {
+    "version": "1.13.3",
+    "file": "bridge/ble/BLE-Bridge-1.13.3-OTA.bin",
+    "size": 919584,
+    "sha256": "6df444f9cef45f9343750c7636b1cb7c7007ce3febfaeaf0b1f34df18e777f45"
+  },
+  "bridge_classic": {
+    "version": "0.9.2",
+    "file": "bridge/classic/CLASSIC-Bridge-0.9.2-OTA.bin",
+    "size": 1103920,
+    "sha256": "56d846118966e405ea7100ebe9874b61f13994e4b3d15ea776c018c4775a2830"
+  }
+  "rpm_apprentice": {
+	"version": "1.036",
+	"file": "rpm_apprentice/RPM-Apprentice-1.036-OTA.bin",
+	"size": 739488,
+	"sha256": "f32c9beb867a4a02844476882c03e044022b58f04f21258f4a73bd1082194fb1"
+  }
+}
