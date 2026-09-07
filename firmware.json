@@ -16,5 +16,11 @@
     "file": "firmware/RPM-Apprentice-1.036-OTA.bin",
     "size": 739488,
     "sha256": "f32c9beb867a4a02844476882c03e044022b58f04f21258f4a73bd1082194fb1"
+  },
+  "lipo_buffer": {
+    "version": "1.0.2",
+    "file": "firmware/LiPo-Buffer-1.0.2-OTA.bin",
+    "size": 658864,
+    "sha256": "8e2dddf1d00e012f4633239ba98d977126999a852499087c0317853460c80b99"
   }
 }
