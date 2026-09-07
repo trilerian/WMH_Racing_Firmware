@@ -1,9 +1,9 @@
 {
   "bridge_ble": {
-    "version": "1.13.5",
-    "file": "firmware/BLE-Bridge-1.13.5-OTA.bin",
-    "size": 933808,
-    "sha256": "44854e591f11276ba8d3e37b820f5a3871b3140e073d7184c61ba69fbef6ccdb"
+    "version": "1.13.6",
+    "file": "firmware/BLE-Bridge-1.13.6-OTA.bin",
+    "size": 946112,
+    "sha256": "6acbe5b6c9fd1c52ff5edb229b23abc06c8e0c61c80729e8c3b69853e2b4761e"
   },
   "bridge_classic": {
     "version": "0.9.2",
