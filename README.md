@@ -2,7 +2,7 @@
 Firmware repo
 
 
-
+This repository is for automatic updates of WMH Racing Products.  The WMH Racing app will check new versions and update from this repo. 
 
 
 
