@@ -12,10 +12,10 @@
     "sha256": "56d846118966e405ea7100ebe9874b61f13994e4b3d15ea776c018c4775a2830"
   },
   "rpm_apprentice": {
-    "version": "1.036",
-    "file": "firmware/RPM-Apprentice-1.036-OTA.bin",
-    "size": 739488,
-    "sha256": "f32c9beb867a4a02844476882c03e044022b58f04f21258f4a73bd1082194fb1"
+    "version": "1.055",
+    "file": "firmware/RPM-Apprentice-1.055-OTA.bin",
+    "size": 753856,
+    "sha256": "afcf2b5d7fd444031262d642fd9eb6e31513d246671b89953e26d8d982687624"
   },
   "lipo_buffer": {
     "version": "1.0.2",
@@ -30,9 +30,9 @@
     "sha256": "91227faf9e91d7fe898cbf620806f889c40e3dc7403edd45d59bbc60359f731c"
   },
   "rotor_master": {
-    "version": "1.11.04",
-    "file": "firmware/Rotor-Master-1.11.04-OTA.bin",
-    "size": 22228,
-    "sha256": "e47cf906ef9bf06eaaf97779f54cc540df4f4d7e06bca04f78bec3d8305acfaf"
+    "version": "1.11.05",
+    "file": "firmware/Rotor-Master-1.11.05-OTA.bin",
+    "size": 22282,
+    "sha256": "60b9212fbcf37eca225749aac94c1e07b625eb8964643021b7348e7221fb116d"
   }
 }
