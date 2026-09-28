@@ -30,9 +30,9 @@
     "sha256": "91227faf9e91d7fe898cbf620806f889c40e3dc7403edd45d59bbc60359f731c"
   },
   "rotor_master": {
-    "version": "1.11.05",
-    "file": "firmware/Rotor-Master-1.11.05-OTA.bin",
-    "size": 22282,
-    "sha256": "60b9212fbcf37eca225749aac94c1e07b625eb8964643021b7348e7221fb116d"
+    "version": "1.11.07",
+    "file": "firmware/Rotor-Master-1.11.07-OTA.bin",
+    "size": 22608,
+    "sha256": "88bdb38433e3b09fc2ed8749009ed8a048f905dc9354d4efa68888ce36c5247f"
   }
 }
