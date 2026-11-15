@@ -24,10 +24,10 @@
     "sha256": "8e2dddf1d00e012f4633239ba98d977126999a852499087c0317853460c80b99"
   },
   "battery_wizard": {
-    "version": "3.00.09",
-    "file": "firmware/Battery-Wizard-3.00.09-OTA.bin",
-    "size": 31200,
-    "sha256": "b11a93ba7a4beaed54181325bc9a87cea47a2b1369e6232f64ca7da7bb08076b"
+    "version": "3.00.12",
+    "file": "firmware/Battery-Wizard-3.00.12-OTA.bin",
+    "size": 31358,
+    "sha256": "09af895006babef795410a9a656bd2593a946b02cf8377471361eb9b62b8dee5"
   },
   "rotor_master": {
     "version": "1.11.07",
