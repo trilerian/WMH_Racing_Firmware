@@ -27,8 +27,7 @@
     "version": "3.00.14",
     "file": "firmware/Battery-Wizard-3.00.14-OTA.bin",
     "size": 31610,
-    "sha256": "647e8006ad8acd43592c9b93f88eccb81aafb6381102ab888c8e1deed01bc7f5
-"
+    "sha256": "647e8006ad8acd43592c9b93f88eccb81aafb6381102ab888c8e1deed01bc7f5"
   },
   "rotor_master": {
     "version": "1.11.07",
